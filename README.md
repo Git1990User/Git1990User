@@ -68,6 +68,7 @@ Projects will be added as they are completed.
 ## ☁️ Certification
 
 **AWS Certified Cloud Practitioner**
+
 **ISTQB Certified Sotware Tester**
 
 ---
